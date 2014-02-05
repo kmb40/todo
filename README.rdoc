@@ -1,3 +1,5 @@
 ToDo Rails app files to support a tutorial created at http://www.kylembrown.com/programming/learning-ruby-on-rails
 
 Live app is available at http://kyles-todo.herokuapp.com/
+
+Author - Kyle M. Brown
