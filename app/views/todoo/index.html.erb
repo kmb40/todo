@@ -14,5 +14,6 @@
 		<strong><%= t.name %></strong>
 		<small><%= link_to "Remove", todoo_path(t), :confirm => "Is it ok to remove this?", :method => :delete %></small>
 	</p>
-<% end %>	
+<% end %>
+	
 <p><%= link_to("Add an item to the list", new_todoo_path) %></p>
